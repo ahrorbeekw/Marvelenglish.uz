@@ -127,24 +127,37 @@ MarvelEnglish/
 ---
 
 # Screenshots
+## 📸 Screenshots
 
-## Hero Section
+### 🏠 Hero Section
 
-<img src="<img width="1280" height="647" alt="image" src="https://github.com/user-attachments/assets/6fde6cb6-c119-450c-adca-b10fc8c10687" />
-"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6fde6cb6-c119-450c-adca-b10fc8c10687" alt="Hero Section" width="100%">
+</p>
 
-## Teachers
+---
 
-<img src="<img width="1280" height="648" alt="image" src="https://github.com/user-attachments/assets/fdf38919-f6c3-48df-b62e-253585a152c7" />
-"/>
+### 👨‍🏫 Teachers
 
-## Student Results
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fdf38919-f6c3-48df-b62e-253585a152c7" alt="Teachers Section" width="100%">
+</p>
 
-https://i.ibb.co/84jn9gyQ/rez.jpg
+---
 
-## Community
+### 🎓 Student Results
 
-[assets/community.png](https://i.ibb.co/b5Kmb6cv/com.jpg)
+<p align="center">
+  <img src="https://i.ibb.co/84jn9gyQ/rez.jpg" alt="Student Results" width="100%">
+</p>
+
+---
+
+### 🌟 Community
+
+<p align="center">
+  <img src="https://i.ibb.co/b5Kmb6cv/com.jpg" alt="Community Section" width="100%">
+</p>
 
 ---
 
