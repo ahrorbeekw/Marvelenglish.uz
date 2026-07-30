@@ -22,11 +22,7 @@ Modern landing page for an English Learning Center built with a clean UI, smooth
 
 > Screenshots
 
-<p align="center">
 
-<img src="assets/hero.png" width="90%">
-
-</p>
 
 ---
 
@@ -112,14 +108,9 @@ The domain has already been purchased and prepared for deployment.
 MarvelEnglish/
 │
 ├── index.html
-├── css/
-├── js/
-├── assets/
-│   ├── images
-│   ├── icons
-│   └── certificates
-└── README.md
-```
+├── style.css
+├── script.js
+└── Readme.md
 
 ---
 
@@ -149,11 +140,11 @@ MarvelEnglish/
 
 ## Student Results
 
-<img src="https://i.ibb.co/84jn9gyQ/rez.jpg"/>
+https://i.ibb.co/84jn9gyQ/rez.jpg
 
 ## Community
 
-<img src="[assets/community.png](https://i.ibb.co/b5Kmb6cv/com.jpg)"/>
+[assets/community.png](https://i.ibb.co/b5Kmb6cv/com.jpg)
 
 ---
 
